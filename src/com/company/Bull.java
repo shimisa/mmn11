@@ -1,7 +1,13 @@
 package com.company;
 import java.util.Random;
 
-/* A class for generating random number and method for the game Bull'eyes */
+/* Maman 11 Question 1
+*  A class for generating random number and method for the game Bull'eyes
+*  @author  Shimi Sadaka
+ * @version 1.0
+ * @since   2020-11-07
+ *
+*  */
 
 
 
