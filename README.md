@@ -1,6 +1,6 @@
 # mmn11
 
-Class homework of parallel programming in Java:
+Class homework Advanced JAVA coursework:
 
 Q1:
 Represents a rational number
